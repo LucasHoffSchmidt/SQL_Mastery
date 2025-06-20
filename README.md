@@ -15,5 +15,5 @@ This project aims to encompass most core tasks in SQL for data analysis.
   - Installed and loaded jupysql and connected to the local sqlite database.
   - Created tables for departments, employees, projects, assignments and salaries.
   - Inserted data into the tables.
-  - Created basic queries using WHERE, JOINs, GROUP BY and ORDER BY.
-  - Created more advanced queries using CTE's, CASE WHEN, COALESCE, window functions and UNION ALL.
+  - Created basic queries using keywords such as WHERE, DISTINCT, LIMIT, GROUP BY and LIKE.
+  - Created more advanced queries using keywords such as JOIN, UNION ALL, CASE WHEN as well as subqueries, CTEs and window functions.
